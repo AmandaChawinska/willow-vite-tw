@@ -2,8 +2,6 @@
 
 .rightcolImg {
   background: url("/images/IMAGE.png"), lightgray 50% / cover;
-  /* background-repeat: no-repeat;
-  background-position: bottom; */
 
   @apply bg-gold bg-no-repeat bg-bottom;
 }
