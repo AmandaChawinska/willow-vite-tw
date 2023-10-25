@@ -1,0 +1,13 @@
+@import "./_tailwind.css";
+
+.rightcolImg {
+  background: url("/images/IMAGE.png"), lightgray 50% / cover;
+  /* background-repeat: no-repeat;
+  background-position: bottom; */
+
+  @apply bg-gold bg-no-repeat bg-bottom;
+}
+
+.happyCustomer {
+  box-shadow: 51px 51px 72px 0px rgba(117, 114, 104, 0.16);
+}
